@@ -1,0 +1,8 @@
+dependencies:
+  path:^1.4.1
+  faker: any
+  csv: any
+  csv_sheets: any
+
+#dev_dependencies:
+#test : ^0.12.0

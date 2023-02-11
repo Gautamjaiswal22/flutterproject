@@ -1,0 +1,41 @@
+// Use this sample to create your own voice commands
+intent('hello', p => {
+    p.play('hi there ,WELCOME TO SMART REMOTE');
+});
+
+intent('WHO CREATED YOU', p => {
+    p.play('ONE AND ONLY MR GAUTAM');
+});
+intent('What is your name', p => {
+    p.play('my name is victus');
+});
+
+
+intent ('hello victus please on the light',p=>{
+    p.play({command:"on 1"});
+    p.play('switching on the light');
+});
+        
+intent ('hello victus please off the light',p=>{
+    p.play({command:"off 1"});
+    p.play('switching off the lights');
+});  
+
+intent ('hello victus please on the fan',p=>{
+    p.play({command:"on 2"});
+    p.play('switching on the fan');
+});
+        
+intent ('hello victus please off the fan',p=>{
+    p.play({command:"off 2"});
+    p.play('switching off the fan');
+});  
+
+intent ('hello victus please play a song for me',p=>{
+    p.play({command:"play"});
+    p.play('ok as your wish');
+});  
+intent ('please pause',p=>{
+    p.play({command:"pause"});
+    p.play('ok as your wish');
+}); 

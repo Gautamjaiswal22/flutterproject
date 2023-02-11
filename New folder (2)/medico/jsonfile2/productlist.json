@@ -1,0 +1,82 @@
+[
+  {
+    "id": 0,
+    "name": "DISPRIN",
+    "category": "NOP",
+    "imageUrl": "IMAGE/IMG1.JPG",
+    "oldPrice": "1899",
+    "price": "799"
+  },
+  {
+    "id": 1,
+    "name": "PARACETAMOL",
+    "category": "Men",
+    "oldPrice": "999",
+    "imageUrl": "IMAGE/IMG2.JPG",
+    "price": "719"
+  },
+  {
+    "id": 2,
+    "name": "CITRIZINE",
+    "category": "Men",
+    "imageUrl": "IMAGE/IMG3.JPG",
+    "oldPrice": "1349",
+    "price": "944"
+  },
+  {
+    "id": 3,
+    "name": "IBRUFEN",
+    "category": "Men",
+    "imageUrl": "IMAGE/IMG4.JPG",
+    "oldPrice": "999",
+    "price": "469"
+  },
+  {
+    "id": 4,
+    "name": "AVIL",
+    "category": "men",
+    "imageUrl": "IMAGE/IMG5.JPG",
+    "oldPrice": "849",
+    "price": "760"
+  },
+  {
+    "id": 5,
+    "name": "TUSQ",
+    "category": "Men",
+    "imageUrl": "IMAGE/IMG6.JPG",
+    "oldPrice": "599",
+    "price": "449"
+  },
+  {
+    "id": 6,
+    "name": "DOLO 650",
+    "category": "Men",
+    "imageUrl": "IMAGE/IMG7.JPG",
+    "oldPrice": "2799",
+    "price": "1196"
+  },
+  {
+    "id": 7,
+    "name": "TAXIM",
+    "category": "Men",
+    "imageUrl": "IMAGE/IMG8.JPG",
+    "oldPrice": "1049",
+    "price": "890"
+  },
+  {
+    "id": 8,
+    "name": "GLYCOMET",
+    "category": "Men",
+    "imageUrl": "IMAGE/IMG9.JPG",
+    "oldPrice": "3699",
+    "price": "999"
+  },
+  {
+    "id": 9,
+    "name": "SUMO",
+    "category": "Men",
+    "imageUrl": "IMAGE/IMG10.JPG",
+    "oldPrice": "1499",
+    "price": "719"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "id": 0,
+    "name": "DISPRIN",
+    "category": "NOP",
+    "imageUrl": "https://images-eu.ssl-images-amazon.com/images/W/WEBP_402378-T1/images/I/41bk4-ZCZyL._AC_SX184_.jpg",
+    "oldPrice": "1899",
+    "price": "799"
+  },
+  {
+    "id": 1,
+    "name": "PARACETAMOL",
+    "category": "Men",
+    "oldPrice": "999",
+    "imageUrl": "https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/613sIXQcyiL._AC_UL480_FMwebp_QL65_.jpg",
+    "price": "719"
+  },
+  {
+    "id": 2,
+    "name": "CITRIZINE",
+    "category": "Men",
+    "imageUrl": "https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/51k9U0pgYJL._AC_UL480_FMwebp_QL65_.jpg",
+    "oldPrice": "1349",
+    "price": "944"
+  },
+  {
+    "id": 3,
+    "name": "IBRUFEN",
+    "category": "Men",
+    "imageUrl": "https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/81BGSPSHsEL._AC_UL480_FMwebp_QL65_.jpg",
+    "oldPrice": "999",
+    "price": "469"
+  },
+  {
+    "id": 4,
+    "name": "AVIL",
+    "category": "men",
+    "imageUrl": "https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/61EMBFo0+UL._AC_UL480_FMwebp_QL65_.jpg",
+    "oldPrice": "849",
+    "price": "760"
+  },
+  {
+    "id": 5,
+    "name": "TUSQ",
+    "category": "Men",
+    "imageUrl": "https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/71BF6DGnVyL._AC_UL480_FMwebp_QL65_.jpg",
+    "oldPrice": "599",
+    "price": "449"
+  },
+  {
+    "id": 6,
+    "name": "DOLO 650",
+    "category": "Men",
+    "imageUrl": "https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/91bz6RZlHZL._AC_UL480_FMwebp_QL65_.jpg",
+    "oldPrice": "2799",
+    "price": "1196"
+  },
+  {
+    "id": 7,
+    "name": "TAXIM",
+    "category": "Men",
+    "imageUrl": "https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/71f-c0mn5lL._AC_UL480_FMwebp_QL65_.jpg",
+    "oldPrice": "1049",
+    "price": "890"
+  },
+  {
+    "id": 8,
+    "name": "GLYCOMET",
+    "category": "Men",
+    "imageUrl": "https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/71jg9cUIXIL._AC_UL480_FMwebp_QL65_.jpg",
+    "oldPrice": "3699",
+    "price": "999"
+  },
+  {
+    "id": 9,
+    "name": "SUMO",
+    "category": "Men",
+    "imageUrl": "https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/71GW8FrlXHL._AC_UL480_FMwebp_QL65_.jpg",
+    "oldPrice": "1499",
+    "price": "719"
+  },
+  {
+    "id": 10,
+    "name": "PARACETAMOL 1000MG",
+    "category": "Men",
+    "oldPrice": "999",
+    "imageUrl": "https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/613sIXQcyiL._AC_UL480_FMwebp_QL65_.jpg",
+    "price": "719"
+  },
+  {
+    "id": 11,
+    "name": "PARACETAMOL 500MG",
+    "category": "Men",
+    "oldPrice": "999",
+    "imageUrl": "https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/613sIXQcyiL._AC_UL480_FMwebp_QL65_.jpg",
+    "price": "719"
+  },
+  {
+    "id": 12,
+    "name": "CITRI",
+    "category": "Men",
+    "imageUrl": "https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/51k9U0pgYJL._AC_UL480_FMwebp_QL65_.jpg",
+    "oldPrice": "1349",
+    "price": "944"
+  },
+  {
+    "id": 13,
+    "name": "IBRUFEN 1000",
+    "category": "Men",
+    "imageUrl": "https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/81BGSPSHsEL._AC_UL480_FMwebp_QL65_.jpg",
+    "oldPrice": "999",
+    "price": "469"
+  },
+  {
+    "id": 14,
+    "name": "AVIL ZQ",
+    "category": "men",
+    "imageUrl": "https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/61EMBFo0+UL._AC_UL480_FMwebp_QL65_.jpg",
+    "oldPrice": "849",
+    "price": "760"
+  },
+  {
+    "id": 15,
+    "name": "TUSQ 200",
+    "category": "Men",
+    "imageUrl": "https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/71BF6DGnVyL._AC_UL480_FMwebp_QL65_.jpg",
+    "oldPrice": "599",
+    "price": "449"
+  },
+  {
+    "id": 16,
+    "name": "DOLO 650",
+    "category": "Men",
+    "imageUrl": "https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/91bz6RZlHZL._AC_UL480_FMwebp_QL65_.jpg",
+    "oldPrice": "2799",
+    "price": "1196"
+  },
+  {
+    "id": 17,
+    "name": "TAXIM 550",
+    "category": "Men",
+    "imageUrl": "https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/71f-c0mn5lL._AC_UL480_FMwebp_QL65_.jpg",
+    "oldPrice": "1049",
+    "price": "890"
+  },
+  {
+    "id": 18,
+    "name": "GLYCOMETTT",
+    "category": "Men",
+    "imageUrl": "https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/71jg9cUIXIL._AC_UL480_FMwebp_QL65_.jpg",
+    "oldPrice": "3699",
+    "price": "999"
+  },
+  {
+    "id": 19,
+    "name": "SUMOOO",
+    "category": "Men",
+    "imageUrl": "https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/71GW8FrlXHL._AC_UL480_FMwebp_QL65_.jpg",
+    "oldPrice": "1499",
+    "price": "719"
+  }
+]

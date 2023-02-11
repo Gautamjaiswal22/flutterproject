@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "11054604785",
+    "project_id": "remote-9d0ca",
+    "storage_bucket": "remote-9d0ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11054604785:android:a35fe2fe448047b2986450",
+        "android_client_info": {
+          "package_name": "com.example.remote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11054604785-2v71ueus3kfmmmrpnqs611ndl15gmuva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN8WUn5_XrZzu6LqGwaYK_W4ITs1JnC_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11054604785-2v71ueus3kfmmmrpnqs611ndl15gmuva.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

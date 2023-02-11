@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "567851983518",
+    "firebase_url": "https://medical-a2c8d-default-rtdb.firebaseio.com",
+    "project_id": "medical-a2c8d",
+    "storage_bucket": "medical-a2c8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567851983518:android:82f658eeee9df41fa0918f",
+        "android_client_info": {
+          "package_name": "com.example.medico"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567851983518-p11oavcok3877hjj1lkc4mmsdbs2jdm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQhWuGIYWu682mK62WvtI0OzRMzNgP8rc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567851983518-p11oavcok3877hjj1lkc4mmsdbs2jdm8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "567851983518-905ilmuaiq6ipdh2m4nrqds9ml7d4h2l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gautam.medico"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
