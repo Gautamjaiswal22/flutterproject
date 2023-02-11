@@ -119,7 +119,7 @@ class _billpageState extends State<billpage> {
                               children: <Widget>[
                             ListTile(
                               title: Text(
-                                  'S.No   Product Name    Quantity    Rate     Total',
+                                  'S.No   Product Name     Rate     Total',
                                   style: TextStyle(
                                       fontSize: 16,
                                       fontWeight: FontWeight.bold)),
