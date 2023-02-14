@@ -90,6 +90,8 @@ class _TestPageState extends State<TestPage> {
                               ),
                             ),
                             Padding(
+
+                              
                               padding: EdgeInsets.only(left: 8, right: 8),
                               child: Text(
                                 user.rate.toString(),
